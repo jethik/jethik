@@ -1,1 +1,3 @@
-<?php echo "Hi Jeffry-way";?>
+<?php echo "Hi Jeffry-way";
+echo "no macha";
+?>
